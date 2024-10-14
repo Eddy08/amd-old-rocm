@@ -1,3 +1,4 @@
+# Some Usefull Resources: https://gist.github.com/tonykero/8ceb62868378ee11e36b07f975731d26
 ## Setup on My WSL2 Windows PC
 1.Use this website to get the packages:![image](https://github.com/user-attachments/assets/a98be5a5-5ded-433c-beae-36621bc525b5)
 
